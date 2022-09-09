@@ -1,0 +1,62 @@
+[
+    {
+        "mes"    : "Enero",
+        "ventasTotales" : "7392",
+        "año" : "2021"
+    },
+    {
+        "mes"    : "Febrero",
+        "ventasTotales" : "1892",
+        "año" : "2021"
+    },
+    {
+        "mes"    : "Marzo",
+        "ventasTotales": "1926",
+        "año" : "2021"
+    },
+    {
+        "mes"    : "Mayo",
+        "ventasTotales" : "8932",
+        "año" : "2021"
+    },
+    {
+        "mes"    : "Abril",
+        "ventasTotales" : "4432",
+        "año" : "2021"
+    },
+    {
+        "mes"    : "Junio",
+        "ventasTotales" : "9012",
+        "año" : "2021"
+    },
+    {
+        "mes"    : "Julio",
+        "ventasTotales" : "6323",
+        "año" : "2021"
+    },
+    {
+        "mes"    : "Agosto",
+        "ventasTotales" : "7831",
+        "año" : "2021"
+    },
+    {
+        "mes"    : "Septiembre",
+        "ventasTotales" : "6374",
+        "año" : "2021"
+    },
+    {
+        "mes"    : "Octubre",
+        "ventasTotales" : "9754",
+        "año" : "2021"
+    },
+    {
+        "mes"    : "Noviembre",
+        "ventasTotales" : "89490",
+        "año" : "2021"
+    },
+    {
+        "mes"    : "Diciembre",
+        "ventasTotales" : "74237",
+        "año" : "2021"
+    }
+]
